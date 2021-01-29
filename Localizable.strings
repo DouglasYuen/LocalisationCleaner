@@ -1,0 +1,33 @@
+/*
+  Localizable.strings
+  Douglas Yuen
+
+  Created by Douglas Yuen on 05/07/19.
+  Copyright © 2019 Douglas Yuen All rights reserved.
+*/
+
+// APPLICATION GENERAL
+
+"APP_OKAY" = "Okay";
+"APP_CANCEL" = "Cancel";
+"APP_SUCCESS" = "Success";
+"APP_FAILED" = "Unsuccessful";
+"APP_DONE" = "Done";
+"APP_NEXT" = "Next";
+"APP_SKIP" = "Skip";
+"APP_SAVE" = "Save";
+"APP_CREATE" = "Create";
+"APP_BACK" = "Back";
+
+"APP_PRIVACY" = "Privacy Policy";
+"APP_TERMS" = "Terms";
+
+"APP_OFFLINE_TITLE" = "Your device is offline";
+"APP_OFFLINE_SUBTITLE" = "Please connect to WiFi or cellular data.";
+
+// LOGOUT
+
+"APP_LOGIN" = "Login";
+
+"APP_LOGOUT" = "Sign out";
+"APP_LOGOUT_TITLE" = "Are you sure you wish to sign out?";
